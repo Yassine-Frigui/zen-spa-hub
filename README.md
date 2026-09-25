@@ -1,14 +1,27 @@
-# Welcome to your Lovable project
+# Spa Flow Manager
+
+create a admin dashboard for a spa with the following pages . 
+-dashboard 
+-clients 
+-reservations 
+-services 
+-store 
+-statistics 
+-settings
+
+each page has its own crud obviously and thus can you provide modern components , modals for the crud usages in here . 
+color pallete is a light beige , cream sort of thing . 
+"brandless"
 
 This project was built with [Lovable](https://lovable.dev).
 
 ## Build with Lovable
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/015a30cb-96d0-4adb-9a11-c5a460d2f2a5).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
@@ -20,10 +33,3 @@ cd <repository-name>
 npm i
 npm run dev
 ```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
